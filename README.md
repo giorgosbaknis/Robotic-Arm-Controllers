@@ -3,7 +3,6 @@ A collection of control strategies for the IIWA robotic arm, utilizing Pinocchio
 
 ## Project Overview
 
-- **Position Control**: Demonstrates the application of position control strategies to manipulate robotic arms.
 - **Task Space Control**: Showcases the implementation of task space control methods for controlling robotic arms based on end effector position and orientation.
 
 ## Key Technologies
